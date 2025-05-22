@@ -54,7 +54,7 @@ The analysis focuses on:
 
 ## 🌐 Data Source
 
-- The Data can be access access here: [Download_Here] ![ Data Source](data_sources/Healthcare_Analysis_Dataset.rar)
+- The Data can be access access here: [Download_Here] ![ Data Source](Healthcare_Analysis_Dataset.rar)
 
 ## 🛠️ Tools Used
 - Power BI
@@ -145,9 +145,9 @@ PowerBI concepts like:
 
 ## 📊 Dashboard Previews
 
-| Overview Analysis | Patients Analysis | Medication Analysis |  Hospital Analysis
-|----------------|------------------|------------------| ------------------|
-| ![Overview](dashboards/Overview_analysis.png) | ![Patients](dashboards/Patients_analysis.png) | ![Medication](dashboards/Medication_analysis.png) | ![Hospital](dashboards/hopitals_analysis.png) |
+Home Page | Overview Analysis | Patients Analysis | Medication Analysis |  Hospital Analysis
+|----------------|----------------|------------------|------------------| ------------------|
+| ![Home](dashboards/Home_page.png)| ![Overview](dashboards/Overview_analysis.png) | ![Patients](dashboards/Patients_analysis.png) | ![Medication](dashboards/Medication_analysis.png) | ![Hospital](dashboards/hopitals_analysis.png) |
 
 
 
